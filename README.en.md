@@ -12,7 +12,7 @@ This is an OpenJTAG implementation for [PSoC 5LP Prototyping Kit (CY8CKIT-059)](
 
 Connect PSoC 5LP Prototyping Kit's MicroUSB to the debug host that runs OpenOCD.
 
-You can monitor and control via KitProg's COM port.
+You can monitor and control via KitProg's COM port speeds of 921,600bps.
 
 TRST is an optional hard reset signal.
 

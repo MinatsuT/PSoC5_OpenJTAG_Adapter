@@ -12,7 +12,7 @@
 
 OpenOCDを実行するデバッグホストに、PSoC 5LP Prototyping KitのMicroUSBを接続します。
 
-KitProgのCOMポートを介して監視・制御することができます。
+KitProgのCOMポート(921,600bps)を介して監視・制御することができます。
 
 TRSTはオプションのハードリセット信号です。
 
