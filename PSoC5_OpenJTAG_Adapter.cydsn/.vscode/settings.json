@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cyapicallbacks.h": "c",
+        "project.h": "c"
+    }
+}

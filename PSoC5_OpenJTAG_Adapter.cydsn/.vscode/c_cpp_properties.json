@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}",
+                "C:/Program Files (x86)/Cypress/PSoC Creator/4.3/PSoC Creator/import/gnu/arm/5.4.1/arm-none-eabi/include",
+                "C:/Program Files (x86)/Cypress/PSoC Creator/4.3/PSoC Creator/import/gnu/arm/5.4.1/lib/gcc/arm-none-eabi/5.4.1/include",
+                "${workspaceFolder}/Generated_Source/PSoC5"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "gcc-x86",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "C:/Program Files (x86)/Cypress/PSoC Creator/4.3/PSoC Creator/import/gnu/arm/5.4.1/arm-none-eabi/include",
+                    "C:/Program Files (x86)/Cypress/PSoC Creator/4.3/PSoC Creator/import/gnu/arm/5.4.1/lib/gcc/arm-none-eabi/5.4.1/include",
+                    "${workspaceFolder}/Generated_Source/PSoC5"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "compilerPath": "C:/Program Files (x86)/Cypress/PSoC Creator/4.3/PSoC Creator/import/gnu/arm/5.4.1/bin/arm-none-eabi-gcc.exe"
+        }
+    ],
+    "version": 4
+}
