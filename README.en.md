@@ -2,13 +2,13 @@
 
 This is an OpenJTAG implementation for [PSoC 5LP Prototyping Kit (CY8CKIT-059)](http://japan.cypress.com/?rid=108038).
 
-- P12.0 --> TDI
-- P12.1 <-- TDO
-- P12.2 --> TCK
-- P12.3 --> TMS
-- P12.4 --- (not used)
-- P12.5 --> TRST (target reset signal, active low.)
-- P1.7  <-- VTref (target voltage reference.)
+- P12_0 --> TDI
+- P12_1 <-- TDO
+- P12_2 --> TCK
+- P12_3 --> TMS
+- P12_4 --- (not used)
+- P12_5 --> TRST (target reset signal, active low.)
+- P1_7  <-- VTref (target voltage reference.)
 
 Connect PSoC 5LP Prototyping Kit's MicroUSB to the debug host that runs OpenOCD.
 
